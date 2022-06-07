@@ -5,8 +5,8 @@
 ### Contacts
 * Location: Minsk, Belarus
 * Tel: +375297907642;
-* Email: nikitatrutko@gmail.com(mailto:nikitatrutko@gmail.com)
-* GitHub: n-trutsko(https://github.com/n-trutsko)
+* Email: [nikitatrutko@gmail.com](mailto:nikitatrutko@gmail.com)
+* GitHub: [n-trutsko](https://github.com/n-trutsko)
 
 ### About
 I'm 23. I've started my career as SEO specialist about 3 years ago. Now I'm more closer to PM. I'm responsible for launching webstes, projects implementations:
