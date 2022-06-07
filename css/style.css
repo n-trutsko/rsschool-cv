@@ -1,0 +1,55 @@
+body{
+    margin:0;
+    padding:0;
+}
+
+h1 {
+    color:white;
+}
+h2 {
+    color:white;
+    padding-bottom:15px;
+    border-bottom:2px solid red;}
+h3 {
+    color:white;
+}
+p {
+    color:white;
+    font-size:18px;
+}
+ul {
+    color:white;
+    font-size:18px;   
+}
+.photo {
+    width:100%;}
+li {
+    padding-bottom: 5px;
+}
+.container {
+   background-color: black;
+    padding: 40px 100px;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+}
+.first-column {
+    grid-column: 1/2;
+}
+.second-column {
+    grid-column: 3/6;
+}
+a {
+    color:white;
+    font-size:18px;
+}
+.contacts div{
+    display:flex;
+    align-items: center;
+    padding-bottom:10px;
+    color:white;
+} 
+.contacts-containers img{
+    width:24px;
+    height:24px;
+    margin-right: 9px;
+}
